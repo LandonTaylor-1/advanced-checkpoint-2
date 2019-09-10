@@ -9,8 +9,15 @@ class App extends Component {
   }
   render() {
     return (
-      <div>
-        Client
+      <div id="container">
+        <div id="twelve-left"></div>
+        <div id="twelve-right"></div>
+        <div id="one"></div>
+        <div id="two"></div>
+        <div id="three"></div>
+        <div id="four"></div>
+        <div id="five"></div>
+        <div id="six"></div>
       </div>
     );
   }
